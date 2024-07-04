@@ -1,0 +1,5 @@
+1. Can you explain what ASP.NET Core is and its main benefits?
+2. How does dependency injection work in ASP.NET Core?
+3. What are some key differences between .NET Framework and .NET Core?
+4. Can you explain what Entity Framework is and its advantages?
+5. Describe a challenging project you have worked on and how you handled it.

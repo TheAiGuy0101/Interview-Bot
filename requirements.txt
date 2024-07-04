@@ -1,0 +1,7 @@
+streamlit
+openai
+numpy
+pydub
+pyaudio
+wave
+python-dotenv

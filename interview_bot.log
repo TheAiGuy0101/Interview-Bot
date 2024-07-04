@@ -1,0 +1,148 @@
+2024-07-04 17:48:07,660 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 17:48:14,985 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 17:48:46,017 - INFO - Audio recording completed
+2024-07-04 17:48:46,046 - ERROR - Error saving audio: [WinError 2] The system cannot find the file specified
+2024-07-04 17:53:47,071 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 17:53:50,357 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:03:14,931 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:03:15,162 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:03:19,444 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:03:50,154 - INFO - Audio recording completed
+2024-07-04 18:03:50,469 - INFO - Audio saved as answer_0.mp3
+2024-07-04 18:03:50,556 - INFO - Retrying request to /audio/transcriptions in 0.857956 seconds
+2024-07-04 18:03:51,417 - INFO - Retrying request to /audio/transcriptions in 1.874298 seconds
+2024-07-04 18:03:53,293 - ERROR - Error during audio transcription: Connection error.
+2024-07-04 18:03:58,870 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:03:58,872 - INFO - Moved to next question: 2
+2024-07-04 18:04:00,943 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:04:00,944 - INFO - Moved to next question: 3
+2024-07-04 18:04:02,189 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:04:02,191 - INFO - Moved to next question: 4
+2024-07-04 18:04:03,291 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:04:03,292 - INFO - Moved to next question: 5
+2024-07-04 18:50:37,910 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:13,879 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:14,161 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:19,624 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:19,759 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:25,866 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:26,553 - INFO - Audio saved as answer_0.mp3
+2024-07-04 18:51:27,738 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 18:51:27,742 - INFO - Audio transcribed: Thank you for watching my video....
+2024-07-04 18:51:30,189 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 18:51:30,193 - ERROR - Error during answer evaluation: invalid literal for int() with base 10: 'Score:'
+2024-07-04 18:51:30,302 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:35,884 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:35,886 - INFO - Moved to next question: 2
+2024-07-04 18:51:40,996 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:40,998 - INFO - Moved to next question: 3
+2024-07-04 18:51:44,133 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:44,134 - INFO - Skipped to question: 4
+2024-07-04 18:51:44,953 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:44,955 - INFO - Skipped to question: 5
+2024-07-04 18:51:45,684 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:45,685 - INFO - Skipped to question: 5
+2024-07-04 18:51:47,204 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 18:51:47,205 - INFO - Interview completed. Total score: 0/50
+2024-07-04 19:02:23,852 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:09:33,126 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:09:42,672 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:09:42,791 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:09:56,129 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:09:56,590 - INFO - Audio saved as answer_0.mp3
+2024-07-04 19:10:02,502 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:03,320 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:10:03,321 - INFO - Audio transcribed: \u3053\u306e\u3088\u3046\u306b\u3001\u3042\u306a\u305f\u306f\u30b3\u30f3\u30dc\u3092\u884c\u3044\u3001\u30d8\u30c3\u30c9\u30ed\u30c3\u30d1\u30fc\u306e\u9ad8\u3055\u3092\u53d7\u3051\u53d6\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002 \u3042\u306a\u305f\u306f\u3053\u306e\u3088\u3046\u306b...
+2024-07-04 19:10:05,659 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:08,674 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:12,026 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:12,109 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:19,145 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:20,027 - INFO - Audio saved as answer_2.mp3
+2024-07-04 19:10:21,477 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:22,375 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:10:22,376 - INFO - Audio transcribed: ...
+2024-07-04 19:10:24,478 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:26,268 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:27,346 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:10:29,049 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:33:51,037 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:16,778 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:23,210 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:26,319 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:26,442 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:40,969 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:41,458 - INFO - Audio saved as answer_0.mp3
+2024-07-04 19:35:52,470 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:35:52,470 - INFO - Audio transcribed: Yet again for the audience!...
+2024-07-04 19:35:54,924 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 19:35:54,927 - ERROR - Error during answer evaluation: invalid literal for int() with base 10: 'I'
+2024-07-04 19:35:55,014 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:35:59,550 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:03,925 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:05,652 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:06,258 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:06,704 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:07,287 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:08,309 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:36:08,319 - INFO - Interview completed. No scores recorded.
+2024-07-04 19:43:52,992 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:43:54,141 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:43:59,032 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:44:09,838 - INFO - Audio saved as C:\Users\madhu\AppData\Local\Temp\tmp1x07j82x.wav
+2024-07-04 19:44:12,286 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:44:12,287 - INFO - Audio transcribed: KSP.NET Core is a cross-functional framework from ...
+2024-07-04 19:44:14,923 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 19:44:14,927 - ERROR - Error during answer evaluation: invalid literal for int() with base 10: 'I'
+2024-07-04 19:48:03,630 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:48:03,916 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:48:04,551 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:48:07,840 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:48:18,576 - INFO - Audio saved as C:\Users\madhu\AppData\Local\Temp\tmpir7s83wk.wav
+2024-07-04 19:48:21,091 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:48:21,092 - INFO - Audio transcribed: ASP.NET Core is a cross-functional platform from M...
+2024-07-04 19:48:22,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 19:48:22,773 - INFO - Answer evaluated. Score: 3/10
+2024-07-04 19:54:17,033 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:54:17,764 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:54:19,966 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:54:22,102 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:54:30,678 - INFO - Audio saved as audio_recordings/question_1_20240704_195430.wav
+2024-07-04 19:54:32,682 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:54:32,682 - INFO - Audio transcribed: ASP.NET Core is a cross-functional platform from M...
+2024-07-04 19:54:34,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 19:54:34,349 - INFO - Answer evaluated. Score: 4/10
+2024-07-04 19:54:46,681 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:54:53,744 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:04,386 - INFO - Audio saved as audio_recordings/question_2_20240704_195504.wav
+2024-07-04 19:55:05,879 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2024-07-04 19:55:05,881 - INFO - Audio transcribed: gives us flexibility to develop cross-functional p...
+2024-07-04 19:55:07,892 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-04 19:55:07,895 - INFO - Answer evaluated. Score: 2/10
+2024-07-04 19:55:13,314 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:14,634 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:15,427 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:16,183 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:17,077 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 19:55:17,081 - INFO - Interview completed. Total score: 6/20
+2024-07-04 19:55:17,082 - INFO - Detailed transcript saved as interview_transcript_detailed_20240704_195517.txt
+2024-07-04 19:55:17,083 - INFO - User transcript saved as interview_transcript.txt
+2024-07-04 20:01:40,842 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:01:41,094 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:01:41,316 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:01:41,624 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:01:46,729 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:01:54,107 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:02:07,684 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:02:10,773 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:02:10,800 - INFO - Audio saved as audio_recordings/question_1_20240704_200210.wav
+2024-07-04 20:02:11,348 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 400 Bad Request"
+2024-07-04 20:02:11,349 - ERROR - Error during audio transcription: Error code: 400 - {'error': {'message': 'Audio file is too short. Minimum audio length is 0.1 seconds.', 'type': 'invalid_request_error', 'param': 'file', 'code': 'audio_too_short'}}
+2024-07-04 20:03:03,722 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:03:06,236 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:03:12,098 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:03:17,924 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:03:22,128 - INFO - Successfully read 5 questions from questions.txt
+2024-07-04 20:03:22,161 - INFO - Audio saved as audio_recordings/question_1_20240704_200322.wav
+2024-07-04 20:03:22,706 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 400 Bad Request"
+2024-07-04 20:03:22,707 - ERROR - Error during audio transcription: Error code: 400 - {'error': {'message': 'Audio file is too short. Minimum audio length is 0.1 seconds.', 'type': 'invalid_request_error', 'param': 'file', 'code': 'audio_too_short'}}
